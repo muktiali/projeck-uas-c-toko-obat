@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1501553560 source:e:\uas pak bilal s2\pakbilal\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<iomanip>
+	<string>
+
